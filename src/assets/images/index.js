@@ -1,0 +1,8 @@
+export { default as airbnb } from './airbnb-logo.png'
+export { default as katieZaferes } from './katie-zaferes.png'
+export { default as logo } from './logo.jpg'
+export { default as mountainBike } from './mountain-bike.png'
+export { default as photoGrid } from './photo-grid.png'
+export { default as projectScreenshot } from './project-screenshot.jpg'
+export { default as star } from './star.png'
+export { default as weddingPhotography } from './wedding-photography.png'
